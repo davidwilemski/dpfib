@@ -12,4 +12,5 @@ What's Here?
 -------------
 There are two classes, `Fib` and `dpFib`. These are the implementation
 files. Inside of `main.py` I use these implementations and `timeit` to 
-measure the performance of both implementations.
+measure the performance of both implementations. A sample set of results
+gotten from my Core 2 Duo MacBook Pro can be found in `results.txt`
