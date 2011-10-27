@@ -1,7 +1,7 @@
 Fibonacci Numbers using Dynamic Programming and Recursion in Python
 =====================================================================
 
-Why
+Why?
 ----
 I was bored this afternoon so I decided to create a quick program that
 generates Fibonacci numbers using dynamic programming with the purpose 
