@@ -1,0 +1,32 @@
+Benchmarking recursion versus dynamic programming:
+
+
+Recursive fib(5):
+1.00135803223e-05
+
+DP fib(5)
+9.05990600586e-06
+
+
+
+Recursive fib(15):
+0.000682830810547
+
+DP fib(15)
+2.31266021729e-05
+
+
+
+Recursive fib(30):
+1.05000519753
+
+DP fib(30)
+5.98430633545e-05
+
+
+
+Recursive fib(35):
+11.6780040264
+
+DP fib(35)
+5.00679016113e-05
